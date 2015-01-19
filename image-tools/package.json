@@ -1,0 +1,16 @@
+{
+  "name": "generate-xcassets-for-logos",
+  "version": "1.0.0",
+  "description": "Build an xcasset directory for all logo images made in illustrator",
+  "main": "generate-xcassets-for-logos.js",
+  "dependencies": {
+    "exec-sync": "^0.1.6",
+    "jsonfile": "^2.0.0",
+    "underscore": "^1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill Lynch"
+}
